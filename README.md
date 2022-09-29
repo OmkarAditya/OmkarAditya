@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omkar-sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-sahoo-7171b4245" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omkar-sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[omkar-sahoo-7171b4245"](https://www.linkedin.com/in/omkar-sahoo-7171b4245/) height="30" width="40" /></a>
 <a href="https://instagram.com/ommkar_aadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ommkar_aadi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/omkar_4344" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="omkar_4344" height="30" width="40" /></a>
 <a href="https://discord.gg/Omi96#1166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Omi96#1166" height="30" width="40" /></a>
